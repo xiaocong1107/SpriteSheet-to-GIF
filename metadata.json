@@ -1,0 +1,5 @@
+{
+  "name": "SpriteSheet to GIF",
+  "description": "A professional tool to slice sprite sheets into frames and convert them into animated GIFs using Gemini AI for layout detection.",
+  "requestFramePermissions": []
+}
